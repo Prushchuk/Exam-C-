@@ -1,0 +1,6 @@
+Expenses:
+Category: Food, Amount: 50, Date: 2024-04-01
+Category: Transport, Amount: 30, Date: 2024-04-02
+Wallets:
+Name: Wallet1, Balance: 100
+Name: Wallet2, Balance: 200
